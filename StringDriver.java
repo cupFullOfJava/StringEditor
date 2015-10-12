@@ -30,10 +30,10 @@ public class StringDriver {
 		 noVowels = stringManipulator.replaceVowels();
 		 countVowels = stringManipulator.countVowels();
 		 
-		 System.out.print("\n"+"Part a)	"+upperString+"\n"+
-				 "Part b)	"+everySecond+"\n"+
-				 "Part c)	"+noVowels+"\n"+
-				 "Part d)	"+countVowels);
+		 System.out.print("\n"+"Uppercase Letters)	"+upperString+"\n"+
+				 "Every Second Letter)	"+everySecond+"\n"+
+				 "No Vowels)	"+noVowels+"\n"+
+				 "Vowel Count)	"+countVowels);
 		
 		
 
